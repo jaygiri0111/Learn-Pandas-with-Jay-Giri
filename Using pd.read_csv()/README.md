@@ -26,5 +26,5 @@ I'm a Data Science Student...
 
 ## Support
 
-For support, email jaygiri0111@gmail.com 
+For support, email jaygiri0111@gmail.com
 
