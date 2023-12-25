@@ -11,6 +11,7 @@ Python, Pandas
 ## Data Used
 Covid-19 Excel Dataset with Interactive Dashboard This data contains state wise analysis of the covid data
 
+## <a href="https://www.kaggle.com/code/jayprakashgiri/importing-data-from-excel-with-pd-read-excel"> Notebook Link </a>
 
 
 ## Getting Started
@@ -19,3 +20,13 @@ Excel is a spreadsheet program from Microsoft and a component of its Office prod
 
 ### Why to clean Excel files?
  To get appropriate results, the data we are using has to be accurate. If, the data is not accurate it might result in wrong finding. So it is suggested to clean the data using different methods.
+
+## 🚀 About Me
+I'm a Data Science Student...
+
+
+## Support
+
+For support, email jaygiri0111@gmail.com 
+
+
